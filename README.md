@@ -47,13 +47,31 @@ The dashboard contains five analytical pages:
 - Risk-return analysis
 - Correlation and diversification analysis
 
+
 ## Project Highlights
 
-- Analyzed historical equity market data using Python and SQL.
+- Analysed historical equity market data using Python and SQL.
 - Performed data quality checks and analytical calculations.
 - Compared portfolio performance under different weighting approaches.
 - Evaluated risk and diversification using historical stock returns.
 - Developed a five-page interactive Power BI dashboard.
+
+ ## Power BI Dashboard Preview
+
+### 1. Market Overview
+![Market Overview](01_Market_Overview.png)
+
+### 2. Stock Performance
+![Stock Performance](02_Stock_Performance.png)
+
+### 3. Portfolio Analysis
+![Portfolio Analysis](03_Portfolio_Analysis.png)
+
+### 4. Risk Analysis
+![Risk Analysis](04_Risk_Analysis.png)
+
+### 5. Correlation & Diversification
+![Correlation and Diversification](05_Correlation_Diversification.png)
 
 ## Important Note
 
